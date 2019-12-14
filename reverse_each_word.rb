@@ -3,7 +3,7 @@ require 'pry'
 def reverse_each_word("sentence1")
   
      
-     puts sentence
+     puts "sentence"
 binding.pry 
 end
 
