@@ -1,8 +1,8 @@
 require 'pry'
 require 
 def reverse_each_word(sentence1)
-   puts sentence.reverse
-
+   sentence1.each do |sentence| sentence.reverse
+end
 binding.'pry'
 end
 
