@@ -1,3 +1,4 @@
+require spec_helper
 require 'pry'
 
 def reverse_each_word("sentence1")
