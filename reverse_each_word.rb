@@ -1,7 +1,7 @@
-require spec_helper
+
 require 'pry'
 
-def reverse_each_word("sentence1")
+def reverse_each_wor(sentence1)
   
      
      puts "sentence1"
